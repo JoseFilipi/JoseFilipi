@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello! My name is José Filipi Brito, and I am a passionate Data Engineering.  
+  Hello! My name is José Filipi, and I am a passionate Data Engineering.  
   I work with data solutions, web applications, and machine learning projects, leveraging my expertise in Python, databases, and cloud computing.  
   Currently, I am working at CACB and contributing to research in the Artificial Intelligence Laboratory (AILAB) at the University of Brasília, where I am pursuing a degree in Software Engineering.
 </p>
