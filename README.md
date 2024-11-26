@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 **Languages:** Python, JavaScript, PHP, SQL  
+  🦄 Languages: Python, JavaScript, PHP, SQL  
 </p>
 
 <p align="left">
-  💼 **Tools:** Databricks, PySpark, DataFactory, Power BI, Zoho Analytics, FastAPI, ReactJS, Azure, AWS, Docker  
+  💼 Tools: Databricks, PySpark, DataFactory, Power BI, Zoho Analytics, FastAPI, ReactJS, Azure, AWS, Docker  
 </p>
 
 <p align="left">
